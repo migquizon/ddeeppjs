@@ -21,4 +21,8 @@
 // import "/src/equality/coercive-equality"
 // import "/src/equality/double-equals-algorithm"
 // import "/src/equality/double-triple-equals"
-import "/src/equality/equality-exercise"
+// import "/src/equality/equality-exercise"
+import "/src/static-typing/typescript-and-flow";
+import "/src/static-typing/custom-types";
+import "/src/static-typing/inferencing";
+import "/src/static-typing/validating-operand-types";
