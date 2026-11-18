@@ -7,3 +7,7 @@ console.log("TypeScript and Flow");
 // inferencing is best-guess, not a guarantee
 // annotations are optional
 // if there's no type, indicates uncertainty
+// 
+// types more obvious
+// look like other type systems
+// extremely popular
