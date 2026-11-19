@@ -26,7 +26,7 @@
 // import "/src/static-typing/custom-types";
 // import "/src/static-typing/inferencing";
 // import "/src/static-typing/validating-operand-types";
-import "/src/scope/scope";
+// import "/src/scope/scope";
 import "/src/scope/compilation-and-scope";
 import "/src/scope/executing-code";
 import "/src/scope/dynamic-global-variables";
