@@ -8,7 +8,7 @@ function otherClass() {
 }
 
 function ask() {
-  let question = "Why?";
+  let question = "Why?"; 
   console.log(question);
 }
 
