@@ -31,6 +31,6 @@
 // import "/src/scope/executing-code";
 // import "/src/scope/dynamic-global-variables";
 // import "/src/scope/strict-mode";
-import "/src/scope/nested-scope";
-import "/src/scope/undefined-vs-undeclared";
+// import "/src/scope/nested-scope";
+// import "/src/scope/undefined-vs-undeclared";
 import "/src/scope/lexical-scope-elevator";
