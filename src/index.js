@@ -34,8 +34,9 @@
 // import "/src/scope/nested-scope";
 // import "/src/scope/undefined-vs-undeclared";
 // import "/src/scope/lexical-scope-elevator";
-import "/src/scope-and-function-expressions/function-expressions";
-import "/src/scope-and-function-expressions/naming-function-expressions";
-import "/src/scope-and-function-expressions/arrow-functions";
-import "/src/scope-and-function-expressions/function-types-hierarchy";
+// import "/src/scope-and-function-expressions/function-expressions";
+// import "/src/scope-and-function-expressions/naming-function-expressions";
+// import "/src/scope-and-function-expressions/arrow-functions";
+// import "/src/scope-and-function-expressions/function-types-hierarchy";
 import "/src/scope-and-function-expressions/function-expression-exercise";
+// import "/src/scope-and-function-expressions/function-expression-arrow";
