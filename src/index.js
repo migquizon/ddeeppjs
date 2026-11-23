@@ -38,5 +38,16 @@
 // import "/src/scope-and-function-expressions/naming-function-expressions";
 // import "/src/scope-and-function-expressions/arrow-functions";
 // import "/src/scope-and-function-expressions/function-types-hierarchy";
-import "/src/scope-and-function-expressions/function-expression-exercise";
+// import "/src/scope-and-function-expressions/function-expression-exercise";
 // import "/src/scope-and-function-expressions/function-expression-arrow";
+// import "/src/advanced-scope/lexical-and-dynamic-scope"
+import "/src/advanced-scope/lexical-scope"
+import "/src/advanced-scope/dynamic-scope"
+import "/src/advanced-scope/function-scoping"
+import "/src/advanced-scope/iife-pattern"
+import "/src/advanced-scope/block-scoping"
+import "/src/advanced-scope/choosing-let-or-var"
+import "/src/advanced-scope/hoisting"
+import "/src/advanced-scope/hoisting-exercise"
+import "/src/advanced-scope/const"
+import "/src/advanced-scope/explicit-let-block"
