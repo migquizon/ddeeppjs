@@ -19,8 +19,9 @@ function lookupRecord(searchStr) {
 
   return id;
 }
-
+//
 // use var as an intent to be used in the function, a broader scope
 // var can be declared multiple times, let can't be
 // let auto block scopes itself within try-catch
 // var in redeclaring in long function, makes it clear and broad
+// 
