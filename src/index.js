@@ -48,6 +48,6 @@
 // import "/src/advanced-scope/block-scoping"
 // import "/src/advanced-scope/choosing-let-or-var"
 // import "/src/advanced-scope/explicit-let-block"
-import "/src/advanced-scope/const"
-import "/src/advanced-scope/hoisting"
+// import "/src/advanced-scope/const"
+// import "/src/advanced-scope/hoisting"
 import "/src/advanced-scope/hoisting-exercise"

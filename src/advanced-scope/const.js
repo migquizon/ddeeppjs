@@ -13,3 +13,6 @@ const teachers = ["Kyle", "Suzy"];
 teachers[1] = "Brian";
 
 console.log(teachers);
+
+// const for immutable primitive values
+// Object.freeze - read only lock on properties but not deep freeze
